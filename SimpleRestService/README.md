@@ -9,5 +9,5 @@
 
 ## Tutorial Series
 
-This repo corresponds to the [Node js Simple Rest Services
+This repo corresponds to the Node js Simple Rest Services
 Happy Coding!
