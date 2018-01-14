@@ -9,8 +9,5 @@
 
 ## Tutorial Series
 
-This repo corresponds to the [Node Todo Tutorial Series](http://scotch.io/series/node-and-angular-to-do-app) on [scotch.io](http://scotch.io)
-
-Happy Todo-ing!
-
-![Todo-aholic](http://i.imgur.com/ikyqgrn.png)
+This repo corresponds to the [Node js Simple Rest Services
+Happy Coding!
