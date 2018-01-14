@@ -1,4 +1,4 @@
-# Node Todo App
+# Node js Simple Rest Service
 
 ## Installation
 
